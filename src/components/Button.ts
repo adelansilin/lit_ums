@@ -10,8 +10,10 @@ export class Button extends LitElement {
       background-color: #B3C8CF;
       border: none;
       padding: 0.5rem 1rem;
-      font-size: 1rem;
+      font-size: 0.8rem;
       cursor: pointer;
+      border-radius: 2px;
+      color : white;
     }
     .btn-primary:hover {
       background-color: #D1E1E6;

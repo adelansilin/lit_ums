@@ -7,7 +7,7 @@ export class Sidebar extends LitElement {
     .sidebar {
       background-color: #B3C8CF;
       padding: 1rem;
-      height: 100vh;
+      height: 94.6vh;
     }
   `;
 

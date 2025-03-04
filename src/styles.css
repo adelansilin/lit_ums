@@ -25,10 +25,11 @@ app-footer {
 main {
   grid-column: 2 ; 
   grid-row: 2 ; 
-  height: calc(100vh - 5rem);
+  height: calc(100vh - 5.8rem);
 }
 
 .button-container {
   display: flex;
   gap: 1rem;
+  justify-content: flex-end;
 }
