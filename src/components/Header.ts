@@ -5,7 +5,7 @@ import { customElement } from 'lit/decorators.js';
 export class Header extends LitElement {
   static styles = css`
     header {
-      background-color: #B3C8CF;
+      background-color: #2E3944;
       display: flex;
       justify-content: space-between;
       align-items: center;

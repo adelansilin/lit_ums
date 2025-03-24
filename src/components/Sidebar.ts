@@ -5,7 +5,7 @@ import { customElement } from 'lit/decorators.js';
 export class Sidebar extends LitElement {
   static styles = css`
     .sidebar {
-      background-color: #B3C8CF;
+      background-color: #2E3944;
       padding: 1rem;
       height: 94.6vh;
     }

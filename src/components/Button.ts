@@ -7,7 +7,7 @@ export class Button extends LitElement {
 
   static styles = css`
     .btn-primary {
-      background-color: #B3C8CF;
+      background-color: #748D92;
       border: none;
       padding: 0.5rem 1rem;
       font-size: 0.8rem;
@@ -16,7 +16,7 @@ export class Button extends LitElement {
       color : white;
     }
     .btn-primary:hover {
-      background-color: #D1E1E6;
+      background-color: #D3D9D4;
     }
   `;
 
@@ -26,3 +26,4 @@ export class Button extends LitElement {
     `;
   }
 }
+

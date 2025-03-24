@@ -5,11 +5,15 @@ import { customElement } from 'lit/decorators.js';
 export class Footer extends LitElement {
   static styles = css`
     footer {
-      background-color: #B3C8CF;
+      background-color: #2E3944;
       color: white;
       text-align: center;
       font-size: 0.6rem;
       height: 2rem;
+    }
+
+    p{
+      padding-top: 0.5rem;
     }
   `;
 
